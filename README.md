@@ -1,7 +1,20 @@
-### Hello there 👋
-
-- 🌱 I’m currently learning React.js
-
+<div align="center">
+  ### Hello there 👋
+  
+  <div id="header">
+    <img src="[https://media.giphy.com/media/BWbdU8nbidzOdHbUg9/giphy.gif](https://media.giphy.com/media/BWbdU8nbidzOdHbUg9/giphy.gif)" width="100"/>
+  </div>
+  
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/john-steele-72b4a2279/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=JSteele-Dev&style=flat-square&color=blue" alt=""/>
+  
+   🌱 I’m currently learning React.js
+</div>
 <!--
 **JSteele-Dev/JSteele-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
