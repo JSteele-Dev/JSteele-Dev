@@ -40,7 +40,7 @@ I am learning to be a Full Stack Developer <img src="https://media.giphy.com/med
 - 🌱 I’m currently learning React.js and other Frontend Libraries.
 - 🔭 I’m currently working on obtaining my Full Stack Certifications.
 - ⚡ Fun fact: I have 3 cats, 3 dogs and 1 turtle.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-steele-72b4a2279/) [![Email Badge](https://img.shields.io/badge/-Email-orange?style=flat&logo=email&logoColor=white)](j.steelecg@gmail.com)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-steele-72b4a2279/) [![Email Badge](https://img.shields.io/badge/-Email-orange?style=flat&logo=email&logoColor=white)](mailto:j.steelecg@gmail.com)
 
 ---
 <div align="center">
