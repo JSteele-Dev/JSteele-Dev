@@ -65,12 +65,12 @@ I am learning to be a Full Stack Developer <img src="https://media.giphy.com/med
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="apple" alt="apple" width="40" height="40"/>
 </div>
 
----
+<!-- ---
 
 ### 🔥 My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSteele-Dev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+</div> -->
 <!--
 **JSteele-Dev/JSteele-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
