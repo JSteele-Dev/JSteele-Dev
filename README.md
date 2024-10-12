@@ -16,10 +16,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=JSteele-Dev&style=flat-square&color=blue"/>
 
-  <hr>
-
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3635774" style='border:none;'></iframe>
-
+  
 ---
 Currently listening to:
 
